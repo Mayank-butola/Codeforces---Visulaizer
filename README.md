@@ -1,4 +1,4 @@
-# Codeforces-Visulaizer
+Codeforces-Visulaizer
 Additional Features
 User Infos:
 Infos related to User all in one place
